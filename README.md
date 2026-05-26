@@ -1,5 +1,11 @@
 # RetailBloom UK - Sales Analytics Dashboard
 
+![Sales Overview](images/sales.jpg)
+![Products](images/products.jpg)
+![Customers](images/customers.jpg)
+![Detail](images/detail.jpg)
+
+## Описание
 Power BI дашборд для анализа продаж розничного магазина.
 
 ## Страницы:
@@ -10,9 +16,3 @@ Power BI дашборд для анализа продаж розничного 
 
 ## Инструменты:
 Power BI, DAX
-
-## Скриншоты:
-![Sales Overview](images/sales.jpg)
-![Products](images/products.jpg)
-![Customers](images/customers.jpg)
-![Detail](images/detail.jpg)
